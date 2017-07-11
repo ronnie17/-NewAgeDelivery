@@ -43,6 +43,7 @@ body {
     height: 100%;
     padding: 0;
     overflow: hidden;
+	background: purple;
 }
 a {
     color: #fff;
@@ -326,7 +327,7 @@ h6 { font-weight: 300 }
 .sidr ul li.active>a,
 .sidr ul li.active>span,
 .sidr ul li.sidr-class-active>a,
-.sidr ul li.sidr-class-active>span { background: maroon  }
+.sidr ul li.sidr-class-active>span { background: maroon }
 .sidr ul li a,
 .sidr ul li span {
     padding: 0 25px;
